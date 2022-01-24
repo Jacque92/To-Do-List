@@ -1,7 +1,7 @@
 # To Do List
 
 An application used to take quick notes.
-
+Click [this link](https://61ee35e6d81a893cf041e737--infallible-boyd-eb3e5c.netlify.app/) to check it out.
 ## Background
 
 - This project is one of a series projects implemented to hone my coding skills along the way of learning Front-end Development.
