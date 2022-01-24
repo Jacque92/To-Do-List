@@ -16,10 +16,3 @@ An application used to take quick notes.
 - Count the number of unfinished tasks
 - Reorder all the items according to their status by keeping unfinished tasks at the top of the list
 
-## Install
-
-This project use React and Material UI. Go check them out if you don't have them locally installed.
-
-
-
-**I will keep improving this project! :v:**
