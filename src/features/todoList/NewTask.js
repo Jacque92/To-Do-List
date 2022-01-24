@@ -6,6 +6,7 @@ export const NewTask = ({ newTask, handleChange, handleSubmit }) => {
   return (
     <form onSubmit={handleSubmit} sx={{ display: "flex", width: 1 }}>
       <TextField
+        autoComplete="off"
         id="standard-basic"
         label="Task"
         variant="standard"
